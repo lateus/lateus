@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on Qt projects
 - 📫 How to reach me
-    - Telegram: t.me/lateus
+    - Telegram: [t.me/lateus](https://t.me/lateus)
     - e-mail: lateus@pm.me
 
 <!---
